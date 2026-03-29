@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Rohan Maharjan
 
-<!--
-**rohanmaharjan/rohanmaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning FULL-STACK/MERN.
+- 💼 I'm styding in Khwopa Engineering College.
+- 🎯 My goal is to become versatie full stack engineer.
+- 📫 Reach me at: rohanmhj9@gmail.com/+977 9742875914
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: Python, JavaScript, React.js, Node.js, C++, C
+- Tools: Git, VS Code
+- Interests: AI, Web Development, Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Project Name](link) – short description
+- [Project Name](link) – short description
+
+## 🌐 Connect With Me
+- LinkedIn: [link]
+- Twitter: [link]
+- Portfolio: [link]
+
+---
+⭐️ From [Your GitHub Username]
