@@ -32,10 +32,10 @@
   Link: https://github.com/rohanmaharjan/English-Dictionary
 
 ## 🌐 Connect With Me
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white LinkedIn: https://www.linkedin.com/in/rohan-maharjan-094048271/
-- https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white Facebook: https://www.facebook.com/rohan.maharjan.3532
+- 💼 LinkedIn: https://www.linkedin.com/in/rohan-maharjan-094048271/
+- 👥 Facebook: https://www.facebook.com/rohan.maharjan.3532
 - 🌐 Portfolio: https://www.rohanmaharjan.name.np/
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white Gmail: rohanmhj9@gmail.com
+- 📩Gmail: rohanmhj9@gmail.com
 
 ---
 ⭐️ From [Your GitHub Username]
