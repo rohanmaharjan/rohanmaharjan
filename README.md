@@ -2,9 +2,11 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently learning FULL-STACK/MERN.
-- 💼 I'm styding in Khwopa Engineering College.
-- 🎯 My goal is to become versatie full stack engineer.
+- 🎓 I'm styding in Khwopa Engineering College.
+- 🎯 My goal is to become versatile full stack engineer.
 - 📫 Reach me at: rohanmhj9@gmail.com/+977 9742875914
+- 🌐 https://www.rohanmaharjan.name.np/
+
 
 ## 🛠️ Skills
 - Programming: Python, JavaScript, React.js, Node.js, C++, C
@@ -12,13 +14,28 @@
 - Interests: AI, Web Development, Open Source
 
 ## 📂 Featured Projects
-- [Project Name](link) – short description
-- [Project Name](link) – short description
+- Gym-Management-System
+  Link: https://github.com/rohanmaharjan/Gym-Management-System
+- [Online Quiz System
+  Link: https://github.com/rohanmaharjan/OnlineQuizSystem
+- Attendance-Management-ssystem
+  Link: https://github.com/rohanmaharjan/Attendance-Management-system
+- AI_Recipe
+  Link: https://github.com/rohanmaharjan/AI_Recipe
+- VegScan
+  Link: https://github.com/rohanmaharjan/VegScan
+- To-Do_Application
+  Link: https://github.com/rohanmaharjan/To-Do_Application
+- HoneyPot_System
+  Link: https://github.com/rohanmaharjan/HoneyPot_System
+- English-Dictionary
+  Link: https://github.com/rohanmaharjan/English-Dictionary
 
 ## 🌐 Connect With Me
-- LinkedIn: [link]
-- Twitter: [link]
-- Portfolio: [link]
+- LinkedIn: https://www.linkedin.com/in/rohan-maharjan-094048271/
+- Facebook: https://www.facebook.com/rohan.maharjan.3532
+- Portfolio: https://www.rohanmaharjan.name.np/
+- Gmail: rohanmhj9@gmail.com
 
 ---
 ⭐️ From [Your GitHub Username]
