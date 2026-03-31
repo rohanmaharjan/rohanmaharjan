@@ -16,7 +16,7 @@
 ## 📂 Featured Projects
 - Gym-Management-System
   Link: https://github.com/rohanmaharjan/Gym-Management-System
-- [Online Quiz System
+- Online Quiz System
   Link: https://github.com/rohanmaharjan/OnlineQuizSystem
 - Attendance-Management-ssystem
   Link: https://github.com/rohanmaharjan/Attendance-Management-system
@@ -38,4 +38,4 @@
 - 📩Gmail: rohanmhj9@gmail.com
 
 ---
-⭐️ From [Your GitHub Username]
+⭐️ From https://github.com/RohanMaharjan/
