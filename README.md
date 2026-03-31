@@ -1,41 +1,27 @@
-# Hi there 👋, I'm Rohan Maharjan
-
-## 🚀 About Me
-- 🌱 I’m currently learning FULL-STACK/MERN.
-- 🎓 I'm styding in Khwopa Engineering College.
-- 🎯 My goal is to become versatile full stack engineer.
-- 📫 Reach me at: rohanmhj9@gmail.com/+977 9742875914
-- 🌐 https://www.rohanmaharjan.name.np/
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
-## 🛠️ Skills
-- Programming: Python, JavaScript, React.js, Node.js, C++, C
-- Tools: Git, VS Code
-- Interests: AI, Web Development, Open Source
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rohan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rohan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohan) 
 
-## 📂 Featured Projects
-- Gym-Management-System
-  Link: https://github.com/rohanmaharjan/Gym-Management-System
-- Online Quiz System
-  Link: https://github.com/rohanmaharjan/OnlineQuizSystem
-- Attendance-Management-ssystem
-  Link: https://github.com/rohanmaharjan/Attendance-Management-system
-- AI_Recipe
-  Link: https://github.com/rohanmaharjan/AI_Recipe
-- VegScan
-  Link: https://github.com/rohanmaharjan/VegScan
-- To-Do_Application
-  Link: https://github.com/rohanmaharjan/To-Do_Application
-- HoneyPot_System
-  Link: https://github.com/rohanmaharjan/HoneyPot_System
-- English-Dictionary
-  Link: https://github.com/rohanmaharjan/English-Dictionary
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohanmaharjan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohanmaharjan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmaharjan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/rohan-maharjan-094048271/
-- 👥 Facebook: https://www.facebook.com/rohan.maharjan.3532
-- 🌐 Portfolio: https://www.rohanmaharjan.name.np/
-- 📩Gmail: rohanmhj9@gmail.com
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohanmaharjan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rohanmaharjan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-⭐️ From https://github.com/RohanMaharjan/
+[![](https://visitcount.itsvg.in/api?id=rohanmaharjan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
