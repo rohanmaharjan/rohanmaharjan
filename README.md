@@ -1,4 +1,4 @@
-# 💫 About Me:,br>I'm Rohan Maharjan.<br>Computer Engineering Student
+# 💫 About Me:<br>I'm Rohan Maharjan.<br>Computer Engineering Student
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
