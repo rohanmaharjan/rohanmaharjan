@@ -4,7 +4,7 @@
   <h4>Computer Engineering Student</h4>
 </div>
 
-🌱 I’m currently learning Full-Stack Development/MERN Stack.<br>👯 Looking for Internship Opportunities, StartUps, Entry-Level Jobs<br>💬 Ask me about Python, JavaScript, web Development, AI/ML Integration<br>📫 Reach me at rohanmhj9@gmail.com
+🌱 I’m currently learning Full-Stack Development/MERN Stack.<br>👯 Internship at UBA Solutions on AI and Data Science Intern<br>💬 Ask me about Python, JavaScript, web Development, AI/ML Integration<br>📫 Reach me at rohanmhj9@gmail.com
 
 
 ## 🌐 Socials:
