@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=rohanmaharjan)
+  <img src="https://komarev.com/ghpvc/?username=rohanmaharjan" alt="rohanmaharjan profile views" />
 </div>
 
 
