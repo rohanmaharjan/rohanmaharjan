@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanmaharjan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -102,19 +102,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmaharjan&theme=react-dark" alt="Activity Graph" />
 </p>
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohanmaharjan&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
-🏆 GitHub Trophies
+# 🎮 Fun / Interactive
 
+<!-- Snake game that "eats" your contribution graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanmaharjan&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github.com/rohanmaharjan/rohanmaharjan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- TODO: Requires setting up the "Snk" GitHub Action on your profile repo -->
+</p>
+<!-- Typing speed / visitor badges, etc. -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-6F4E37?style=for-the-badge&logo=buymeacoffee" />
 </p>
 
-📌 Featured Projects
+#📌 Featured Projects
 
 <!-- TODO: Add 2-4 project cards -->
 <p align="center">
@@ -123,5 +129,9 @@
   </a>
 </p>
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to reach out 🚀</i></p>
+<p align="center"><i>
+  
+  **Thanks for visiting my profile! Feel free to reach out 🚀**
+  
+</i></p>
 
