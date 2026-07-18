@@ -14,16 +14,14 @@
 </p>
 
 # 🧑‍💻 About Me
-<!-- TODO: Write 4-6 lines about yourself -->
+- 🔭 I'm currently working on Email-AI-Assistant — a full-stack AI-powered email assistant (Django/DRF + React + Gemini API)
+- 🌱 I'm currently learning Data science, Artificial Intelligence, Machine Learning
+- 👯 I'm looking to for fresh opportunities, junior position openings.
+- 💬 Ask me about Python, ML/NLP, Django, React, Data Science, Pandas, JavaScript
+- 📫 How to reach me: rohanmhj9@gmail.com
+- ⚡ Fun fact: [fill in]
 
-🔭 I'm currently working on Email-AI-Assistant — a full-stack AI-powered email assistant (Django/DRF + React + Gemini API)
-🌱 I'm currently learning [fill in]
-👯 I'm looking to collaborate on [fill in]
-💬 Ask me about [fill in: Python, ML/NLP, Django, React, etc.]
-📫 How to reach me: [email]
-⚡ Fun fact: [fill in]
-
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
