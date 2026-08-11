@@ -19,7 +19,7 @@
 - 👯 I'm looking to for fresh opportunities, junior position openings.
 - 💬 Ask me about Python, ML/NLP, Django, React, Data Science, Pandas, JavaScript
 - 📫 How to reach me: rohanmhj9@gmail.com
-- ⚡ Fun fact: [fill in]
+- ⚡ Fun fact: I once built an AI to make decisions for me, then spent the next few days debugging its decisions.
 
 # 🌐 Connect With Me
 
