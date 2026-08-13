@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">>Hi 👋, I'm Rohan Maharjan</h1>
+<h1 align="center" style="color:red">Hi 👋, I'm Rohan Maharjan</h1>
 <h3 align="center">A passionate Full-Stack Developer & AI/ML Enthusiast from Nepal 🇳🇵</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Email-AI-Assistant;Always+Learning+New+Things" alt="Typing SVG" />
